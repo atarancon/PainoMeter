@@ -1,10 +1,16 @@
 .section-e-benefict {
   background-color: rgba(59, 85, 120, 1) !important;
   color: #ffffff;
+  letter-spacing: 2px;
 }
 
-.section-e-features {
+.section-color {
   color: rgba(59, 85, 120, 1);
+}
+
+.section-custom-text {
+  letter-spacing: 2px;
+  font-weight: 400;
 }
 .cta {
   display: flex;
