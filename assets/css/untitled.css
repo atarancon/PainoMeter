@@ -1,0 +1,28 @@
+.section-e-benefict {
+  background-color: rgba(59, 85, 120, 1) !important;
+  color: #ffffff;
+  letter-spacing: 2px;
+}
+
+.section-color {
+  color: rgba(59, 85, 120, 1);
+}
+
+.section-custom-text {
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+.cta {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: stretch;
+}
+
+.users {
+  margin: 0 4rem 0 6rem;
+}
+
+.entrepreneur {
+  margin: 0 4rem;
+}
